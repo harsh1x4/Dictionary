@@ -4,7 +4,7 @@ Dictionary app where you can search for words and it outputs word meaning, word 
 
 ### Deployment Links
 
-- [Vercel](https://random-quote-generator-harsh1x4.vercel.app)
+- [Vercel](https://dictionary-harsh1x4.vercel.app)
 - [GitHub](https://harsh1x4.github.io/Dictionary/)
 
 ## Screenshot
